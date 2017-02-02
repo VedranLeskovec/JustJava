@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Just Java</string>
+    <string name="quantity">Količina</string>
+    <string name="orderBttn">Naruči</string>
+    <string name="toppings">Dodatci</string>
+    <string name="toppings_chocolate">Čokolada</string>
+    <string name="toppings_cream">Šlag</string>
+    <string name="name">Ime</string>
+    <string name="thank_you">Hvala!</string>
+    <string name="add_chocolate">Dodaj čokoladu?</string>
+    <string name="add_cream">Dodaj šlag?</string>
+    <string name="customer_name">Ime</string>
+    <string name="total">Ukupno</string>
+    <string name="order_summary_name">Ime: <xliff:g id="name" example="Deadpool">%s</xliff:g></string>
+    <string name="currency">HRK</string>
+</resources>
